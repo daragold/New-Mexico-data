@@ -1,4 +1,4 @@
-# New-Mexico-data
+# New Mexico data
 
 ### Data Sources ###
 
