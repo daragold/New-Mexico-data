@@ -10,7 +10,7 @@ Precint level elections returns were provided by the  [New Mexico Secretary of S
 
 ### Processing ###
 
-Statewide election returns from 2016 and 2018 - from the New Mexico Secretary of State - were cleaned by MGGG staff in order to join it with the New Mexico precinct shapefile. Census block data was aggregated to the precinct level using MGGG's proration software.
+Statewide election returns from 2016 and 2018 - from the New Mexico Secretary of State - were cleaned by MGGG staff in order to join it with the New Mexico precinct shapefile. Census block data was aggregated to the precinct level using MGGG's [proration software](https://github.com/mggg/maup).
 
 ### Projection ###
 All shape files were converted to CRS WGS 84 / UTM zone 13N.
