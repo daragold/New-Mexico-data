@@ -2,7 +2,7 @@
 
 ### Data Sources ###
 
-The New Mexico precinct shapefile was obtained from the New Mexico [Resource Geographic Information System (RGIS)](http://rgis.unm.edu/rgis6/) , which is managed by the Earth Data Analysis Center (EDAC) at the University of New Mexico. It was processed be members of the Metric Geometry and Gerrymandering Group (MGGG).
+The New Mexico precinct shapefile was obtained from the New Mexico [Resource Geographic Information System (RGIS)](http://rgis.unm.edu/rgis6/) , which is managed by the Earth Data Analysis Center (EDAC) at the University of New Mexico. It was processed by members of the Metric Geometry and Gerrymandering Group (MGGG).
 
 The Congressional, State Senate and State House district map shape files, as well as the 2010 census block shape file are from the [US Census Bureau's TIGER/Line Program](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html). 
 
